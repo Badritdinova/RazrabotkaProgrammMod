@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|d:\\\u0431\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u043F\\shapemanager\\shapemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|solutionrelative:shapemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|d:\\\u0431\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u043F\\shapemanager\\shapemanager\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|solutionrelative:shapemanager\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|d:\\\u0431\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u043F\\shapemanager\\shapemanager\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|solutionrelative:shapemanager\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|d:\\\u0431\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u043F\\shapemanager\\shapemanager\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|solutionrelative:shapemanager\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|d:\\\u0431\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u043F\\shapemanager\\shapemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FFD5CBC-5DCD-4211-B99E-CA669E214FA9}|ShapeManager\\ShapeManager.csproj|solutionrelative:shapemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ShapeManager\\Form1.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\Form1.cs",
+              "RelativeToolTip": "ShapeManager\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:22:51.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\Square.cs",
+              "RelativeDocumentMoniker": "ShapeManager\\Square.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\Square.cs",
+              "RelativeToolTip": "ShapeManager\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:22:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\Circle.cs",
+              "RelativeDocumentMoniker": "ShapeManager\\Circle.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\Circle.cs",
+              "RelativeToolTip": "ShapeManager\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:21:36.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\IShape.cs",
+              "RelativeDocumentMoniker": "ShapeManager\\IShape.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\IShape.cs",
+              "RelativeToolTip": "ShapeManager\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:21:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ShapeManager\\Form1.cs",
+              "ToolTip": "D:\\\u0411\u0430\u0434\u0440\u0438\u0442\u0434\u0438\u043D\u043E\u0432\u0430\u041F\\ShapeManager\\ShapeManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ShapeManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:20:38.87Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

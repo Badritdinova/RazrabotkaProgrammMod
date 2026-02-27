@@ -1,0 +1,10 @@
+D:\БадритдиноваП\ShapeManager\ShapeManager\bin\Debug\ShapeManager.exe.config
+D:\БадритдиноваП\ShapeManager\ShapeManager\bin\Debug\ShapeManager.exe
+D:\БадритдиноваП\ShapeManager\ShapeManager\bin\Debug\ShapeManager.pdb
+D:\БадритдиноваП\ShapeManager\ShapeManager\obj\Debug\ShapeManager.csproj.AssemblyReference.cache
+D:\БадритдиноваП\ShapeManager\ShapeManager\obj\Debug\ShapeManager.Form1.resources
+D:\БадритдиноваП\ShapeManager\ShapeManager\obj\Debug\ShapeManager.Properties.Resources.resources
+D:\БадритдиноваП\ShapeManager\ShapeManager\obj\Debug\ShapeManager.csproj.GenerateResource.cache
+D:\БадритдиноваП\ShapeManager\ShapeManager\obj\Debug\ShapeManager.csproj.CoreCompileInputs.cache
+D:\БадритдиноваП\ShapeManager\ShapeManager\obj\Debug\ShapeManager.exe
+D:\БадритдиноваП\ShapeManager\ShapeManager\obj\Debug\ShapeManager.pdb
